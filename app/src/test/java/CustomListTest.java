@@ -28,6 +28,6 @@ public class CustomListTest {
         list.addCity(city);
         assertEquals(list.getCount(),listSize+1);
         assertTrue(list.hasCity(city));
-
     }
+    
 }
